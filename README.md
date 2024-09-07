@@ -26,7 +26,7 @@ just use the button open in colab and Execute each cell
 
 ## Authors ✒️
 
--   **LKaura Daniekla Monsalve -Gómez** - [Daniela-mgx](https://github.com/Daniela-mgx)
+-   **LKaura Daniela Monsalve -Gómez** - [Daniela-mgx](https://github.com/Daniela-mgx)
 
 ## License 📄
 
